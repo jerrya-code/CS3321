@@ -1,3 +1,4 @@
 # CS3321
-Repository for CS-3321 assignments/projects
+
+Repository for CS3321 assignments/projects
 
